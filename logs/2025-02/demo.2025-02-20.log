@@ -774,7 +774,7 @@ java.lang.IllegalArgumentException: Name for argument of type [java.lang.String]
 [20250220 17:07:53:485][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 1 ms
 [20250220 17:07:53:541][ERROR][o.a.c.c.C.[.[.[/].[dispatcherServlet]] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.ClassCastException: class java.lang.String cannot be cast to class java.lang.Long (java.lang.String and java.lang.Long are in module java.base of loader 'bootstrap')] with root cause
 java.lang.ClassCastException: class java.lang.String cannot be cast to class java.lang.Long (java.lang.String and java.lang.Long are in module java.base of loader 'bootstrap')
-	at com.example.demo.global.payment.controller.WidgetController.confirmPayment(WidgetController.java:38)
+	at com.example.demo.domain.payment.controller.PaymentController.confirmPayment(WidgetController.java:38)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -827,7 +827,7 @@ java.lang.ClassCastException: class java.lang.String cannot be cast to class jav
 	at java.base/java.lang.Thread.run(Thread.java:842)
 [20250220 17:07:53:541][ERROR][o.a.c.c.C.[.[.[/].[dispatcherServlet]] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.ClassCastException: class java.lang.String cannot be cast to class java.lang.Long (java.lang.String and java.lang.Long are in module java.base of loader 'bootstrap')] with root cause
 java.lang.ClassCastException: class java.lang.String cannot be cast to class java.lang.Long (java.lang.String and java.lang.Long are in module java.base of loader 'bootstrap')
-	at com.example.demo.global.payment.controller.WidgetController.confirmPayment(WidgetController.java:38)
+	at com.example.demo.domain.payment.controller.PaymentController.confirmPayment(WidgetController.java:38)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -899,7 +899,7 @@ java.lang.ClassCastException: class java.lang.String cannot be cast to class jav
 [20250220 17:08:54:313][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 1 ms
 [20250220 17:08:54:412][ERROR][o.a.c.c.C.[.[.[/].[dispatcherServlet]] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.ClassCastException: class java.lang.String cannot be cast to class java.lang.Number (java.lang.String and java.lang.Number are in module java.base of loader 'bootstrap')] with root cause
 java.lang.ClassCastException: class java.lang.String cannot be cast to class java.lang.Number (java.lang.String and java.lang.Number are in module java.base of loader 'bootstrap')
-	at com.example.demo.global.payment.controller.WidgetController.confirmPayment(WidgetController.java:38)
+	at com.example.demo.domain.payment.controller.PaymentController.confirmPayment(WidgetController.java:38)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -952,7 +952,7 @@ java.lang.ClassCastException: class java.lang.String cannot be cast to class jav
 	at java.base/java.lang.Thread.run(Thread.java:842)
 [20250220 17:08:54:412][ERROR][o.a.c.c.C.[.[.[/].[dispatcherServlet]] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: java.lang.ClassCastException: class java.lang.String cannot be cast to class java.lang.Number (java.lang.String and java.lang.Number are in module java.base of loader 'bootstrap')] with root cause
 java.lang.ClassCastException: class java.lang.String cannot be cast to class java.lang.Number (java.lang.String and java.lang.Number are in module java.base of loader 'bootstrap')
-	at com.example.demo.global.payment.controller.WidgetController.confirmPayment(WidgetController.java:38)
+	at com.example.demo.domain.payment.controller.PaymentController.confirmPayment(WidgetController.java:38)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
