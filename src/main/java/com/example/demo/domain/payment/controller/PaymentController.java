@@ -27,6 +27,7 @@ public class PaymentController {
     private final Logger logger = LoggerFactory.getLogger(this.getClass());
     private final JSONParser parser = new JSONParser();
 
+    // 결제 승인 시 필요한 데이터
     static class PaymentRequest {
         private String orderId;
         private Integer amount;
@@ -148,6 +149,7 @@ public class PaymentController {
         }
     }
 
+    // 결제 금액 조회를 위한 response 객체
     static class PaymentResponse {
         private Integer amount;
         private Long missingId;
