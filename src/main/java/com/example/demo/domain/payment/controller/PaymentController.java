@@ -32,7 +32,6 @@ public class PaymentController {
         private Integer amount;
         private String paymentKey;
 
-        // Getters and Setters
         public String getOrderId() { return orderId; }
         public void setOrderId(String orderId) { this.orderId = orderId; }
         public Integer getAmount() { return amount; }
@@ -41,6 +40,7 @@ public class PaymentController {
         public void setPaymentKey(String paymentKey) { this.paymentKey = paymentKey; }
     }
 
+    // 결제 승인
     @PostMapping("/confirm")
     public ResponseEntity<JSONObject> confirmPayment(@RequestBody PaymentRequest request) throws Exception {
         try {
@@ -52,6 +52,7 @@ public class PaymentController {
                 throw new RuntimeException("Required parameters are missing");
             }
 
+            // 결제 승인 API 요청을 위한 JSON 객체 생성
             JSONObject obj = new JSONObject();
             obj.put("orderId", request.getOrderId());
             obj.put("amount", request.getAmount());
@@ -78,15 +79,17 @@ public class PaymentController {
             connection.setRequestMethod("POST");
             connection.setDoOutput(true);
 
-
+            // request 전송
             try (OutputStream outputStream = connection.getOutputStream()) {
                 byte[] input = obj.toString().getBytes(StandardCharsets.UTF_8);
                 outputStream.write(input, 0, input.length);
                 outputStream.flush();
             }
 
+            // 응답 코드
             int code = connection.getResponseCode();
 
+            // 응답 코드에 따른 세부 처리
             try (InputStream responseStream = code == 200 ? connection.getInputStream() : connection.getErrorStream();
                  Reader reader = new InputStreamReader(responseStream, StandardCharsets.UTF_8)) {
                 JSONObject jsonObject = (JSONObject) parser.parse(reader);
@@ -127,7 +130,7 @@ public class PaymentController {
         }
     }
 
-    // 결제 금액 조회 엔드포인트 추가
+    // 결제 금액 조회
     @GetMapping("/pay/amount/{missingId}")
     public ResponseEntity<PaymentResponse> getPaymentAmount(@PathVariable("missingId") Long missingId) {
         try {
@@ -149,7 +152,6 @@ public class PaymentController {
         private Integer amount;
         private Long missingId;
 
-        // Getters and Setters
         public Integer getAmount() { return amount; }
         public void setAmount(Integer amount) { this.amount = amount; }
         public Long getMissingId() { return missingId; }
