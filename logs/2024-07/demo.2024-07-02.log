@@ -1,0 +1,35 @@
+[20240702 17:06:36:542][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 21 with PID 40570 (/Users/scbock01/Downloads/react-java/target/classes started by sybock in /Users/scbock01/Downloads/react-java)
+[20240702 17:06:36:543][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20240702 17:06:36:569][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20240702 17:06:36:570][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20240702 17:06:37:030][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 4242 (http)
+[20240702 17:06:37:034][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-4242"]
+[20240702 17:06:37:035][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20240702 17:06:37:035][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20240702 17:06:37:052][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20240702 17:06:37:053][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 483 ms
+[20240702 17:06:37:112][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20240702 17:06:37:214][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20240702 17:06:37:248][WARN ][o.s.b.d.a.OptionalLiveReloadServer] Unable to start LiveReload server
+[20240702 17:06:37:256][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-4242"]
+[20240702 17:06:37:267][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 4242 (http) with context path ''
+[20240702 17:06:37:273][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.985 seconds (process running for 1.198)
+[20240702 17:07:54:971][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20240702 17:07:54:971][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20240702 17:07:54:972][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 0 ms
+[20240702 17:13:43:024][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 21 with PID 36308 (/Users/scbock01/Desktop/test/tutorialv2/react-java/target/classes started by sybock in /Users/scbock01/Desktop/test/tutorialv2/react-java)
+[20240702 17:13:43:024][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20240702 17:13:43:093][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 4242 (http)
+[20240702 17:13:43:093][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20240702 17:13:43:093][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20240702 17:13:43:098][INFO ][o.a.c.c.C.[Tomcat-2].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20240702 17:13:43:098][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 72 ms
+[20240702 17:13:43:108][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20240702 17:13:43:122][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20240702 17:13:43:126][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20240702 17:13:43:129][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 4242 (http) with context path ''
+[20240702 17:13:43:130][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.147 seconds (process running for 689.408)
+[20240702 17:13:43:131][INFO ][o.s.b.d.a.ConditionEvaluationDeltaLoggingListener] Condition evaluation unchanged
+[20240702 17:14:52:250][INFO ][o.a.c.c.C.[Tomcat-2].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20240702 17:14:52:250][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20240702 17:14:52:250][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 0 ms

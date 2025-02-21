@@ -1,0 +1,1110 @@
+[20250221 09:42:57:928][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 15280 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 09:42:57:936][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 09:42:57:988][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20250221 09:42:57:988][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20250221 09:42:58:982][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 09:42:58:990][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 09:42:58:993][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 09:42:58:993][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 09:42:59:039][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 09:42:59:040][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 1050 ms
+[20250221 09:42:59:139][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 09:42:59:330][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 09:42:59:386][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 09:42:59:397][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 09:42:59:416][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 09:42:59:422][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 2.176 seconds (process running for 3.03)
+[20250221 09:43:24:790][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20250221 09:43:24:790][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20250221 09:43:24:792][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 2 ms
+[20250221 09:51:16:452][INFO ][o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+[20250221 09:51:16:457][INFO ][o.apache.coyote.http11.Http11NioProtocol] Stopping ProtocolHandler ["http-nio-8080"]
+[20250221 09:51:16:571][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 15280 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 09:51:16:571][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 09:51:16:870][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 09:51:16:870][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 09:51:16:871][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 09:51:16:871][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 09:51:16:889][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 09:51:16:889][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 314 ms
+[20250221 09:51:16:907][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 09:51:16:936][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 09:51:16:953][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 09:51:16:959][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 09:51:16:964][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 09:51:16:967][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.441 seconds (process running for 500.572)
+[20250221 09:51:16:969][INFO ][o.s.b.d.a.ConditionEvaluationDeltaLoggingListener] Condition evaluation unchanged
+[20250221 09:51:18:374][INFO ][o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] Restarting due to 2 class path changes (2 additions, 0 deletions, 0 modifications)
+[20250221 09:51:18:375][INFO ][o.apache.coyote.http11.Http11NioProtocol] Stopping ProtocolHandler ["http-nio-8080"]
+[20250221 09:51:18:492][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 15280 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 09:51:18:493][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 09:51:18:748][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 09:51:18:748][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 09:51:18:748][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 09:51:18:749][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 09:51:18:765][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 09:51:18:765][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 268 ms
+[20250221 09:51:18:782][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 09:51:18:810][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 09:51:18:825][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 09:51:18:831][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 09:51:18:836][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 09:51:18:839][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.382 seconds (process running for 502.444)
+[20250221 09:51:18:840][INFO ][o.s.b.d.a.ConditionEvaluationDeltaLoggingListener] Condition evaluation unchanged
+[20250221 09:52:07:187][INFO ][o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] Restarting due to 2 class path changes (0 additions, 2 deletions, 0 modifications)
+[20250221 09:52:07:188][INFO ][o.apache.coyote.http11.Http11NioProtocol] Stopping ProtocolHandler ["http-nio-8080"]
+[20250221 09:52:07:289][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 15280 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 09:52:07:290][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 09:52:07:515][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 09:52:07:515][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 09:52:07:516][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 09:52:07:516][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 09:52:07:528][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 09:52:07:529][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 236 ms
+[20250221 09:52:07:543][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 09:52:07:565][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 09:52:07:572][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 09:52:07:577][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 09:52:07:580][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 09:52:07:583][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.329 seconds (process running for 551.189)
+[20250221 09:52:07:584][INFO ][o.s.b.d.a.ConditionEvaluationDeltaLoggingListener] Condition evaluation unchanged
+[20250221 09:54:28:476][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 27472 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 09:54:28:479][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 09:54:28:532][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20250221 09:54:28:533][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20250221 09:54:29:530][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 09:54:29:537][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 09:54:29:539][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 09:54:29:539][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 09:54:29:578][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 09:54:29:578][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 1045 ms
+[20250221 09:54:29:669][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 09:54:29:849][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 09:54:29:897][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 09:54:29:908][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 09:54:29:924][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 09:54:29:930][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 2.075 seconds (process running for 2.768)
+[20250221 09:55:01:347][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20250221 09:55:01:347][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20250221 09:55:01:349][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 2 ms
+[20250221 09:56:18:140][INFO ][o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+[20250221 09:56:18:144][INFO ][o.apache.coyote.http11.Http11NioProtocol] Stopping ProtocolHandler ["http-nio-8080"]
+[20250221 09:56:18:251][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 27472 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 09:56:18:252][DEBUG][com.example.demo.DemoApplication] Running with Spring Boot v3.2.0, Spring v6.1.1
+[20250221 09:56:18:252][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 09:56:18:485][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 09:56:18:485][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 09:56:18:485][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 09:56:18:485][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 09:56:18:498][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 09:56:18:499][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 244 ms
+[20250221 09:56:18:519][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 09:56:18:527][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] 3 mappings in 'requestMappingHandlerMapping'
+[20250221 09:56:18:544][DEBUG][o.s.w.s.handler.SimpleUrlHandlerMapping] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+[20250221 09:56:18:551][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerAdapter] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+[20250221 09:56:18:554][DEBUG][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+[20250221 09:56:18:558][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 09:56:18:568][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 09:56:18:573][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 09:56:18:576][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 09:56:18:579][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.364 seconds (process running for 111.416)
+[20250221 09:56:18:580][INFO ][o.s.b.d.a.ConditionEvaluationDeltaLoggingListener] Condition evaluation unchanged
+[20250221 09:56:37:283][INFO ][o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] Restarting due to 2 class path changes (0 additions, 2 deletions, 0 modifications)
+[20250221 09:56:37:285][INFO ][o.apache.coyote.http11.Http11NioProtocol] Stopping ProtocolHandler ["http-nio-8080"]
+[20250221 09:56:37:378][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 27472 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 09:56:37:378][DEBUG][com.example.demo.DemoApplication] Running with Spring Boot v3.2.0, Spring v6.1.1
+[20250221 09:56:37:378][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 09:56:37:562][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 09:56:37:562][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 09:56:37:563][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 09:56:37:563][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 09:56:37:579][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 09:56:37:579][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 199 ms
+[20250221 09:56:37:596][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 09:56:37:603][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] 2 mappings in 'requestMappingHandlerMapping'
+[20250221 09:56:37:620][DEBUG][o.s.w.s.handler.SimpleUrlHandlerMapping] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+[20250221 09:56:37:622][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerAdapter] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+[20250221 09:56:37:624][DEBUG][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+[20250221 09:56:37:628][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 09:56:37:646][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 09:56:37:651][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 09:56:37:656][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 09:56:37:661][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.313 seconds (process running for 130.499)
+[20250221 09:56:37:663][INFO ][o.s.b.d.a.ConditionEvaluationDeltaLoggingListener] Condition evaluation unchanged
+[20250221 09:56:52:234][INFO ][o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] Restarting due to 2 class path changes (2 additions, 0 deletions, 0 modifications)
+[20250221 09:56:52:235][INFO ][o.apache.coyote.http11.Http11NioProtocol] Stopping ProtocolHandler ["http-nio-8080"]
+[20250221 09:56:52:299][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 27472 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 09:56:52:299][DEBUG][com.example.demo.DemoApplication] Running with Spring Boot v3.2.0, Spring v6.1.1
+[20250221 09:56:52:299][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 09:56:52:477][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 09:56:52:477][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 09:56:52:477][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 09:56:52:477][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 09:56:52:489][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 09:56:52:489][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 188 ms
+[20250221 09:56:52:506][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 09:56:52:512][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] 3 mappings in 'requestMappingHandlerMapping'
+[20250221 09:56:52:525][DEBUG][o.s.w.s.handler.SimpleUrlHandlerMapping] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+[20250221 09:56:52:527][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerAdapter] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+[20250221 09:56:52:528][DEBUG][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+[20250221 09:56:52:531][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 09:56:52:539][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 09:56:52:541][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 09:56:52:544][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 09:56:52:547][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.274 seconds (process running for 145.385)
+[20250221 09:56:52:548][INFO ][o.s.b.d.a.ConditionEvaluationDeltaLoggingListener] Condition evaluation unchanged
+[20250221 09:58:17:556][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20250221 09:58:17:556][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20250221 09:58:17:556][DEBUG][o.s.web.servlet.DispatcherServlet] Detected StandardServletMultipartResolver
+[20250221 09:58:17:557][DEBUG][o.s.web.servlet.DispatcherServlet] Detected AcceptHeaderLocaleResolver
+[20250221 09:58:17:557][DEBUG][o.s.web.servlet.DispatcherServlet] Detected FixedThemeResolver
+[20250221 09:58:17:557][DEBUG][o.s.web.servlet.DispatcherServlet] Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@1e6b18d0
+[20250221 09:58:17:558][DEBUG][o.s.web.servlet.DispatcherServlet] Detected org.springframework.web.servlet.support.SessionFlashMapManager@10ace56d
+[20250221 09:58:17:558][DEBUG][o.s.web.servlet.DispatcherServlet] enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+[20250221 09:58:17:558][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 2 ms
+[20250221 09:58:17:563][DEBUG][o.s.web.servlet.DispatcherServlet] POST "/confirm", parameters={}
+[20250221 09:58:17:563][DEBUG][o.s.web.servlet.DispatcherServlet] POST "/confirm", parameters={}
+[20250221 09:58:17:563][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 09:58:17:563][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 09:58:17:569][DEBUG][o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor] Read "application/json;charset=UTF-8" to [com.example.demo.global.payment.controller.WidgetController$PaymentRequest@657ff084]
+[20250221 09:58:17:569][DEBUG][o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor] Read "application/json;charset=UTF-8" to [com.example.demo.global.payment.controller.WidgetController$PaymentRequest@2e23e8c0]
+[20250221 09:58:17:988][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Using 'application/json', given [application/json] and supported [application/json, application/*+json]
+[20250221 09:58:17:989][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Writing [{"code":"PROVIDER_ERROR","message":"죄송합니다. 잠시 후 다시 이용해 주시기 바랍니다."}]
+[20250221 09:58:17:996][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 400 BAD_REQUEST
+[20250221 09:58:18:223][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Using 'application/json', given [application/json] and supported [application/json, application/*+json]
+[20250221 09:58:18:224][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Writing [{"country":"KR","metadata":null,"orderId":"MC42NDE0MTk5OTk5ODcz","cashReceipts":null,"isPartialCance (truncated)...]
+[20250221 09:58:18:226][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 200 OK
+[20250221 10:01:22:421][INFO ][o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] Restarting due to 2 class path changes (0 additions, 2 deletions, 0 modifications)
+[20250221 10:01:22:422][INFO ][o.apache.coyote.http11.Http11NioProtocol] Stopping ProtocolHandler ["http-nio-8080"]
+[20250221 10:01:22:505][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 27472 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 10:01:22:506][DEBUG][com.example.demo.DemoApplication] Running with Spring Boot v3.2.0, Spring v6.1.1
+[20250221 10:01:22:506][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 10:01:22:687][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 10:01:22:688][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 10:01:22:688][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 10:01:22:688][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 10:01:22:701][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 10:01:22:702][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 194 ms
+[20250221 10:01:22:715][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 10:01:22:720][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] 3 mappings in 'requestMappingHandlerMapping'
+[20250221 10:01:22:731][DEBUG][o.s.w.s.handler.SimpleUrlHandlerMapping] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+[20250221 10:01:22:733][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerAdapter] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+[20250221 10:01:22:734][DEBUG][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+[20250221 10:01:22:737][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 10:01:22:743][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 10:01:22:747][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 10:01:22:750][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 10:01:22:753][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.272 seconds (process running for 415.592)
+[20250221 10:01:22:753][INFO ][o.s.b.d.a.ConditionEvaluationDeltaLoggingListener] Condition evaluation unchanged
+[20250221 10:01:24:170][INFO ][o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] Restarting due to 2 class path changes (2 additions, 0 deletions, 0 modifications)
+[20250221 10:01:24:171][INFO ][o.apache.coyote.http11.Http11NioProtocol] Stopping ProtocolHandler ["http-nio-8080"]
+[20250221 10:01:24:274][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 27472 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 10:01:24:274][DEBUG][com.example.demo.DemoApplication] Running with Spring Boot v3.2.0, Spring v6.1.1
+[20250221 10:01:24:274][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 10:01:24:438][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 10:01:24:439][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 10:01:24:439][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 10:01:24:439][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 10:01:24:452][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 10:01:24:452][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 176 ms
+[20250221 10:01:24:467][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 10:01:24:473][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] 3 mappings in 'requestMappingHandlerMapping'
+[20250221 10:01:24:484][DEBUG][o.s.w.s.handler.SimpleUrlHandlerMapping] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+[20250221 10:01:24:487][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerAdapter] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+[20250221 10:01:24:489][DEBUG][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+[20250221 10:01:24:493][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 10:01:24:504][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 10:01:24:508][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 10:01:24:513][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 10:01:24:516][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.278 seconds (process running for 417.355)
+[20250221 10:01:24:517][INFO ][o.s.b.d.a.ConditionEvaluationDeltaLoggingListener] Condition evaluation unchanged
+[20250221 10:02:16:533][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 26644 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 10:02:16:534][DEBUG][com.example.demo.DemoApplication] Running with Spring Boot v3.2.0, Spring v6.1.1
+[20250221 10:02:16:535][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 10:02:16:583][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20250221 10:02:16:584][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20250221 10:02:17:623][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 10:02:17:633][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 10:02:17:635][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 10:02:17:635][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 10:02:17:681][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 10:02:17:681][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 1097 ms
+[20250221 10:02:17:788][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 10:02:17:848][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] 3 mappings in 'requestMappingHandlerMapping'
+[20250221 10:02:17:903][DEBUG][o.s.w.s.handler.SimpleUrlHandlerMapping] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+[20250221 10:02:17:924][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerAdapter] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+[20250221 10:02:17:951][DEBUG][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+[20250221 10:02:17:977][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 10:02:18:037][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 10:02:18:052][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 10:02:18:080][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 10:02:18:089][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 2.215 seconds (process running for 2.742)
+[20250221 10:02:39:011][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20250221 10:02:39:011][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20250221 10:02:39:011][DEBUG][o.s.web.servlet.DispatcherServlet] Detected StandardServletMultipartResolver
+[20250221 10:02:39:011][DEBUG][o.s.web.servlet.DispatcherServlet] Detected AcceptHeaderLocaleResolver
+[20250221 10:02:39:011][DEBUG][o.s.web.servlet.DispatcherServlet] Detected FixedThemeResolver
+[20250221 10:02:39:012][DEBUG][o.s.web.servlet.DispatcherServlet] Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@5304d1c4
+[20250221 10:02:39:012][DEBUG][o.s.web.servlet.DispatcherServlet] Detected org.springframework.web.servlet.support.SessionFlashMapManager@5ab516c8
+[20250221 10:02:39:012][DEBUG][o.s.web.servlet.DispatcherServlet] enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+[20250221 10:02:39:013][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 2 ms
+[20250221 10:02:39:021][DEBUG][o.s.web.servlet.DispatcherServlet] POST "/confirm", parameters={}
+[20250221 10:02:39:021][DEBUG][o.s.web.servlet.DispatcherServlet] POST "/confirm", parameters={}
+[20250221 10:02:39:031][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 10:02:39:031][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 10:02:39:094][DEBUG][o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor] Read "application/json;charset=UTF-8" to [com.example.demo.global.payment.controller.WidgetController$PaymentRequest@59727dca]
+[20250221 10:02:39:094][DEBUG][o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor] Read "application/json;charset=UTF-8" to [com.example.demo.global.payment.controller.WidgetController$PaymentRequest@2be8c3bf]
+[20250221 10:02:39:100][INFO ][c.e.demo.controller.WidgetController] Received payment request: com.example.demo.global.payment.controller.WidgetController$PaymentRequest@2be8c3bf
+[20250221 10:02:39:100][INFO ][c.e.demo.controller.WidgetController] Received payment request: com.example.demo.global.payment.controller.WidgetController$PaymentRequest@59727dca
+[20250221 10:02:39:672][INFO ][c.e.demo.controller.WidgetController] Payment response: {"code":"PROVIDER_ERROR","message":"죄송합니다. 잠시 후 다시 이용해 주시기 바랍니다."}
+[20250221 10:02:39:689][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Using 'application/json', given [application/json] and supported [application/json, application/*+json]
+[20250221 10:02:39:690][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Writing [{"code":"PROVIDER_ERROR","message":"죄송합니다. 잠시 후 다시 이용해 주시기 바랍니다."}]
+[20250221 10:02:39:700][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 400 BAD_REQUEST
+[20250221 10:02:39:942][INFO ][c.e.demo.controller.WidgetController] Payment response: {"country":"KR","metadata":null,"orderId":"MC45MzU2ODQ0MDMzMzA1","cashReceipts":null,"isPartialCancelable":true,"lastTransactionKey":"txrd_a01jmk0ebmx1t0dajg8wyxa3gge","discount":null,"taxExemptionAmount":0,"suppliedAmount":45455,"secret":"ps_24xLea5zVA6kOzb4DDq2rQAMYNwW","type":"NORMAL","cultureExpense":false,"taxFreeAmount":0,"requestedAt":"2025-02-21T10:02:28+09:00","currency":"KRW","paymentKey":"tgen_20250221100228gdI11","virtualAccount":null,"checkout":{"url":"https:\/\/api.tosspayments.com\/v1\/payments\/tgen_20250221100228gdI11\/checkout"},"orderName":"토스 티셔츠 외 2건","method":"간편결제","useEscrow":false,"vat":4545,"mId":"tgen_docs","approvedAt":"2025-02-21T10:02:39+09:00","balanceAmount":50000,"version":"2022-11-16","easyPay":{"amount":48168,"provider":"토스페이","discountAmount":1832},"totalAmount":50000,"cancels":null,"transfer":null,"mobilePhone":null,"failure":null,"receipt":{"url":"https:\/\/dashboard.tosspayments.com\/receipt\/redirection?transactionId=tgen_20250221100228gdI11&ref=PX"},"giftCertificate":null,"cashReceipt":null,"card":null,"status":"DONE"}
+[20250221 10:02:39:943][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Using 'application/json', given [application/json] and supported [application/json, application/*+json]
+[20250221 10:02:39:944][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Writing [{"country":"KR","metadata":null,"orderId":"MC45MzU2ODQ0MDMzMzA1","cashReceipts":null,"isPartialCance (truncated)...]
+[20250221 10:02:39:947][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 200 OK
+[20250221 10:06:01:592][INFO ][o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] Restarting due to 2 class path changes (0 additions, 2 deletions, 0 modifications)
+[20250221 10:06:01:596][INFO ][o.apache.coyote.http11.Http11NioProtocol] Stopping ProtocolHandler ["http-nio-8080"]
+[20250221 10:06:01:692][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 26644 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 10:06:01:692][DEBUG][com.example.demo.DemoApplication] Running with Spring Boot v3.2.0, Spring v6.1.1
+[20250221 10:06:01:692][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 10:06:01:910][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 10:06:01:910][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 10:06:01:910][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 10:06:01:910][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 10:06:01:925][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 10:06:01:925][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 231 ms
+[20250221 10:06:01:945][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 10:06:01:953][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] 3 mappings in 'requestMappingHandlerMapping'
+[20250221 10:06:01:967][DEBUG][o.s.w.s.handler.SimpleUrlHandlerMapping] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+[20250221 10:06:01:969][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerAdapter] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+[20250221 10:06:01:971][DEBUG][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+[20250221 10:06:01:975][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 10:06:01:986][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 10:06:01:993][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 10:06:01:996][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 10:06:02:000][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.339 seconds (process running for 226.655)
+[20250221 10:06:02:001][INFO ][o.s.b.d.a.ConditionEvaluationDeltaLoggingListener] Condition evaluation unchanged
+[20250221 10:06:03:408][INFO ][o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] Restarting due to 2 class path changes (2 additions, 0 deletions, 0 modifications)
+[20250221 10:06:03:409][INFO ][o.apache.coyote.http11.Http11NioProtocol] Stopping ProtocolHandler ["http-nio-8080"]
+[20250221 10:06:03:473][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 26644 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 10:06:03:473][DEBUG][com.example.demo.DemoApplication] Running with Spring Boot v3.2.0, Spring v6.1.1
+[20250221 10:06:03:473][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 10:06:03:611][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 10:06:03:611][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 10:06:03:611][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 10:06:03:611][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 10:06:03:623][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 10:06:03:624][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 149 ms
+[20250221 10:06:03:636][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 10:06:03:642][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] 3 mappings in 'requestMappingHandlerMapping'
+[20250221 10:06:03:651][DEBUG][o.s.w.s.handler.SimpleUrlHandlerMapping] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+[20250221 10:06:03:652][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerAdapter] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+[20250221 10:06:03:655][DEBUG][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+[20250221 10:06:03:658][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 10:06:03:665][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 10:06:03:669][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 10:06:03:671][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 10:06:03:674][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.222 seconds (process running for 228.329)
+[20250221 10:06:03:674][INFO ][o.s.b.d.a.ConditionEvaluationDeltaLoggingListener] Condition evaluation unchanged
+[20250221 10:06:33:824][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 15224 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 10:06:33:826][DEBUG][com.example.demo.DemoApplication] Running with Spring Boot v3.2.0, Spring v6.1.1
+[20250221 10:06:33:827][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 10:06:33:873][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20250221 10:06:33:873][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20250221 10:06:34:708][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 10:06:34:715][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 10:06:34:717][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 10:06:34:717][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 10:06:34:754][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 10:06:34:754][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 880 ms
+[20250221 10:06:34:838][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 10:06:34:885][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] 3 mappings in 'requestMappingHandlerMapping'
+[20250221 10:06:34:925][DEBUG][o.s.w.s.handler.SimpleUrlHandlerMapping] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+[20250221 10:06:34:944][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerAdapter] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+[20250221 10:06:34:968][DEBUG][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+[20250221 10:06:34:992][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 10:06:35:038][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 10:06:35:047][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 10:06:35:062][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 10:06:35:067][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 1.849 seconds (process running for 2.413)
+[20250221 10:06:52:914][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20250221 10:06:52:915][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20250221 10:06:52:915][DEBUG][o.s.web.servlet.DispatcherServlet] Detected StandardServletMultipartResolver
+[20250221 10:06:52:915][DEBUG][o.s.web.servlet.DispatcherServlet] Detected AcceptHeaderLocaleResolver
+[20250221 10:06:52:915][DEBUG][o.s.web.servlet.DispatcherServlet] Detected FixedThemeResolver
+[20250221 10:06:52:916][DEBUG][o.s.web.servlet.DispatcherServlet] Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@388c951c
+[20250221 10:06:52:916][DEBUG][o.s.web.servlet.DispatcherServlet] Detected org.springframework.web.servlet.support.SessionFlashMapManager@7de13c2b
+[20250221 10:06:52:917][DEBUG][o.s.web.servlet.DispatcherServlet] enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+[20250221 10:06:52:917][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 2 ms
+[20250221 10:06:52:930][DEBUG][o.s.web.servlet.DispatcherServlet] POST "/confirm", parameters={}
+[20250221 10:06:52:930][DEBUG][o.s.web.servlet.DispatcherServlet] POST "/confirm", parameters={}
+[20250221 10:06:52:947][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 10:06:52:947][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 10:06:53:053][DEBUG][o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor] Read "application/json;charset=UTF-8" to [com.example.demo.global.payment.controller.WidgetController$PaymentRequest@7a60e6c3]
+[20250221 10:06:53:053][DEBUG][o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor] Read "application/json;charset=UTF-8" to [com.example.demo.global.payment.controller.WidgetController$PaymentRequest@65f98979]
+[20250221 10:06:53:064][INFO ][c.e.demo.controller.WidgetController] Received payment request: com.example.demo.global.payment.controller.WidgetController$PaymentRequest@7a60e6c3
+[20250221 10:06:53:064][INFO ][c.e.demo.controller.WidgetController] Received payment request: com.example.demo.global.payment.controller.WidgetController$PaymentRequest@65f98979
+[20250221 10:06:53:709][DEBUG][o.s.web.servlet.DispatcherServlet] Failed to complete request: Unexpected character (<) at position 0.
+[20250221 10:06:53:709][DEBUG][o.s.web.servlet.DispatcherServlet] Failed to complete request: Unexpected character (<) at position 0.
+[20250221 10:06:53:710][ERROR][o.a.c.c.C.[.[.[/].[dispatcherServlet]] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: Unexpected character (<) at position 0.] with root cause
+org.json.simple.parser.ParseException: null
+	at org.json.simple.parser.Yylex.yylex(Yylex.java:610)
+	at org.json.simple.parser.JSONParser.nextToken(JSONParser.java:269)
+	at org.json.simple.parser.JSONParser.parse(JSONParser.java:118)
+	at org.json.simple.parser.JSONParser.parse(JSONParser.java:92)
+	at com.example.demo.global.payment.controller.WidgetController.confirmPayment(WidgetController.java:88)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:254)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:182)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:917)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:829)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:340)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+[20250221 10:06:53:711][ERROR][o.a.c.c.C.[.[.[/].[dispatcherServlet]] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: Unexpected character (<) at position 0.] with root cause
+org.json.simple.parser.ParseException: null
+	at org.json.simple.parser.Yylex.yylex(Yylex.java:610)
+	at org.json.simple.parser.JSONParser.nextToken(JSONParser.java:269)
+	at org.json.simple.parser.JSONParser.parse(JSONParser.java:118)
+	at org.json.simple.parser.JSONParser.parse(JSONParser.java:92)
+	at com.example.demo.global.payment.controller.WidgetController.confirmPayment(WidgetController.java:88)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:254)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:182)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:917)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:829)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:340)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:842)
+[20250221 10:06:53:734][DEBUG][o.s.web.servlet.DispatcherServlet] "ERROR" dispatch for POST "/error", parameters={}
+[20250221 10:06:53:732][DEBUG][o.s.web.servlet.DispatcherServlet] "ERROR" dispatch for POST "/error", parameters={}
+[20250221 10:06:53:736][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+[20250221 10:06:53:736][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController#error(HttpServletRequest)
+[20250221 10:06:53:764][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Using 'application/json', given [application/json] and supported [application/json, application/*+json]
+[20250221 10:06:53:764][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Using 'application/json', given [application/json] and supported [application/json, application/*+json]
+[20250221 10:06:53:766][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Writing [{timestamp=Fri Feb 21 10:06:53 KST 2025, status=500, error=Internal Server Error, trace=Unexpected c (truncated)...]
+[20250221 10:06:53:767][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Writing [{timestamp=Fri Feb 21 10:06:53 KST 2025, status=500, error=Internal Server Error, trace=Unexpected c (truncated)...]
+[20250221 10:06:53:807][DEBUG][o.s.web.servlet.DispatcherServlet] Exiting from "ERROR" dispatch, status 500
+[20250221 10:06:53:807][DEBUG][o.s.web.servlet.DispatcherServlet] Exiting from "ERROR" dispatch, status 500
+[20250221 10:07:17:127][INFO ][o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] Restarting due to 2 class path changes (0 additions, 2 deletions, 0 modifications)
+[20250221 10:07:17:133][INFO ][o.apache.coyote.http11.Http11NioProtocol] Stopping ProtocolHandler ["http-nio-8080"]
+[20250221 10:07:17:256][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 15224 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 10:07:17:256][DEBUG][com.example.demo.DemoApplication] Running with Spring Boot v3.2.0, Spring v6.1.1
+[20250221 10:07:17:256][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 10:07:17:498][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 10:07:17:498][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 10:07:17:498][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 10:07:17:498][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 10:07:17:511][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 10:07:17:511][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 249 ms
+[20250221 10:07:17:528][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 10:07:17:535][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] 3 mappings in 'requestMappingHandlerMapping'
+[20250221 10:07:17:547][DEBUG][o.s.w.s.handler.SimpleUrlHandlerMapping] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+[20250221 10:07:17:550][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerAdapter] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+[20250221 10:07:17:551][DEBUG][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+[20250221 10:07:17:555][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 10:07:17:564][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 10:07:17:568][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 10:07:17:571][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 10:07:17:574][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.357 seconds (process running for 44.921)
+[20250221 10:07:17:575][INFO ][o.s.b.d.a.ConditionEvaluationDeltaLoggingListener] Condition evaluation unchanged
+[20250221 10:07:18:976][INFO ][o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] Restarting due to 2 class path changes (2 additions, 0 deletions, 0 modifications)
+[20250221 10:07:18:976][INFO ][o.apache.coyote.http11.Http11NioProtocol] Stopping ProtocolHandler ["http-nio-8080"]
+[20250221 10:07:19:125][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 15224 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 10:07:19:125][DEBUG][com.example.demo.DemoApplication] Running with Spring Boot v3.2.0, Spring v6.1.1
+[20250221 10:07:19:125][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 10:07:19:491][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 10:07:19:492][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 10:07:19:492][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 10:07:19:492][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 10:07:19:514][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 10:07:19:514][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 389 ms
+[20250221 10:07:19:552][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 10:07:19:566][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] 3 mappings in 'requestMappingHandlerMapping'
+[20250221 10:07:19:586][DEBUG][o.s.w.s.handler.SimpleUrlHandlerMapping] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+[20250221 10:07:19:590][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerAdapter] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+[20250221 10:07:19:592][DEBUG][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+[20250221 10:07:19:593][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 10:07:19:607][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 10:07:19:622][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 10:07:19:622][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 10:07:19:639][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.572 seconds (process running for 46.986)
+[20250221 10:07:19:642][INFO ][o.s.b.d.a.ConditionEvaluationDeltaLoggingListener] Condition evaluation unchanged
+[20250221 10:07:24:964][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 31964 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 10:07:24:965][DEBUG][com.example.demo.DemoApplication] Running with Spring Boot v3.2.0, Spring v6.1.1
+[20250221 10:07:24:966][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 10:07:25:017][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20250221 10:07:25:017][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20250221 10:07:25:853][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 10:07:25:859][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 10:07:25:861][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 10:07:25:861][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 10:07:25:897][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 10:07:25:898][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 881 ms
+[20250221 10:07:25:986][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 10:07:26:035][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] 3 mappings in 'requestMappingHandlerMapping'
+[20250221 10:07:26:079][DEBUG][o.s.w.s.handler.SimpleUrlHandlerMapping] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+[20250221 10:07:26:101][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerAdapter] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+[20250221 10:07:26:125][DEBUG][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+[20250221 10:07:26:150][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 10:07:26:194][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 10:07:26:208][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 10:07:26:222][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 10:07:26:228][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 1.919 seconds (process running for 2.543)
+[20250221 10:07:41:800][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20250221 10:07:41:801][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20250221 10:07:41:801][DEBUG][o.s.web.servlet.DispatcherServlet] Detected StandardServletMultipartResolver
+[20250221 10:07:41:801][DEBUG][o.s.web.servlet.DispatcherServlet] Detected AcceptHeaderLocaleResolver
+[20250221 10:07:41:801][DEBUG][o.s.web.servlet.DispatcherServlet] Detected FixedThemeResolver
+[20250221 10:07:41:802][DEBUG][o.s.web.servlet.DispatcherServlet] Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@dcf86c3
+[20250221 10:07:41:802][DEBUG][o.s.web.servlet.DispatcherServlet] Detected org.springframework.web.servlet.support.SessionFlashMapManager@1fd3f50b
+[20250221 10:07:41:803][DEBUG][o.s.web.servlet.DispatcherServlet] enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+[20250221 10:07:41:803][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 2 ms
+[20250221 10:07:41:816][DEBUG][o.s.web.servlet.DispatcherServlet] POST "/confirm", parameters={}
+[20250221 10:07:41:816][DEBUG][o.s.web.servlet.DispatcherServlet] POST "/confirm", parameters={}
+[20250221 10:07:41:837][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 10:07:41:837][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 10:07:41:966][DEBUG][o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor] Read "application/json;charset=UTF-8" to [com.example.demo.global.payment.controller.WidgetController$PaymentRequest@423c5859]
+[20250221 10:07:41:966][DEBUG][o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor] Read "application/json;charset=UTF-8" to [com.example.demo.global.payment.controller.WidgetController$PaymentRequest@515af631]
+[20250221 10:07:41:977][INFO ][c.e.demo.controller.WidgetController] Received payment request: com.example.demo.global.payment.controller.WidgetController$PaymentRequest@515af631
+[20250221 10:07:41:977][INFO ][c.e.demo.controller.WidgetController] Received payment request: com.example.demo.global.payment.controller.WidgetController$PaymentRequest@423c5859
+[20250221 10:07:42:720][INFO ][c.e.demo.controller.WidgetController] Payment response: {"code":"PROVIDER_ERROR","message":"죄송합니다. 잠시 후 다시 이용해 주시기 바랍니다."}
+[20250221 10:07:42:755][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Using 'application/json', given [application/json] and supported [application/json, application/*+json]
+[20250221 10:07:42:758][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Writing [{"code":"PROVIDER_ERROR","message":"죄송합니다. 잠시 후 다시 이용해 주시기 바랍니다."}]
+[20250221 10:07:42:786][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 400 BAD_REQUEST
+[20250221 10:07:42:949][INFO ][c.e.demo.controller.WidgetController] Payment response: {"country":"KR","metadata":null,"orderId":"MC4wNDY4MjUwMjExMTI4","cashReceipts":null,"isPartialCancelable":true,"lastTransactionKey":"txrd_a01jmk0qkj3txm9kmb7tas74e5h","discount":null,"taxExemptionAmount":0,"suppliedAmount":45455,"secret":"ps_ORzdMaqN3w5bd2YyRYqr5AkYXQGw","type":"NORMAL","cultureExpense":false,"taxFreeAmount":0,"requestedAt":"2025-02-21T10:07:32+09:00","currency":"KRW","paymentKey":"tgen_20250221100732qBNc8","virtualAccount":null,"checkout":{"url":"https:\/\/api.tosspayments.com\/v1\/payments\/tgen_20250221100732qBNc8\/checkout"},"orderName":"토스 티셔츠 외 2건","method":"간편결제","useEscrow":false,"vat":4545,"mId":"tgen_docs","approvedAt":"2025-02-21T10:07:42+09:00","balanceAmount":50000,"version":"2022-11-16","easyPay":{"amount":48168,"provider":"토스페이","discountAmount":1832},"totalAmount":50000,"cancels":null,"transfer":null,"mobilePhone":null,"failure":null,"receipt":{"url":"https:\/\/dashboard.tosspayments.com\/receipt\/redirection?transactionId=tgen_20250221100732qBNc8&ref=PX"},"giftCertificate":null,"cashReceipt":null,"card":null,"status":"DONE"}
+[20250221 10:07:42:952][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Using 'application/json', given [application/json] and supported [application/json, application/*+json]
+[20250221 10:07:42:953][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Writing [{"country":"KR","metadata":null,"orderId":"MC4wNDY4MjUwMjExMTI4","cashReceipts":null,"isPartialCance (truncated)...]
+[20250221 10:07:42:962][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 200 OK
+[20250221 10:12:56:166][INFO ][o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] Restarting due to 2 class path changes (0 additions, 2 deletions, 0 modifications)
+[20250221 10:12:56:171][INFO ][o.apache.coyote.http11.Http11NioProtocol] Stopping ProtocolHandler ["http-nio-8080"]
+[20250221 10:12:56:276][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 31964 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 10:12:56:276][DEBUG][com.example.demo.DemoApplication] Running with Spring Boot v3.2.0, Spring v6.1.1
+[20250221 10:12:56:276][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 10:12:56:536][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 10:12:56:537][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 10:12:56:537][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 10:12:56:537][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 10:12:56:551][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 10:12:56:552][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 273 ms
+[20250221 10:12:56:567][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 10:12:56:575][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] 2 mappings in 'requestMappingHandlerMapping'
+[20250221 10:12:56:589][DEBUG][o.s.w.s.handler.SimpleUrlHandlerMapping] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+[20250221 10:12:56:592][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerAdapter] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+[20250221 10:12:56:594][DEBUG][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+[20250221 10:12:56:598][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 10:12:56:610][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 10:12:56:615][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 10:12:56:618][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 10:12:56:622][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.384 seconds (process running for 332.938)
+[20250221 10:12:56:623][INFO ][o.s.b.d.a.ConditionEvaluationDeltaLoggingListener] Condition evaluation unchanged
+[20250221 10:13:19:401][INFO ][o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] Restarting due to 2 class path changes (2 additions, 0 deletions, 0 modifications)
+[20250221 10:13:19:402][INFO ][o.apache.coyote.http11.Http11NioProtocol] Stopping ProtocolHandler ["http-nio-8080"]
+[20250221 10:13:19:480][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 31964 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 10:13:19:480][DEBUG][com.example.demo.DemoApplication] Running with Spring Boot v3.2.0, Spring v6.1.1
+[20250221 10:13:19:480][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 10:13:19:696][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 10:13:19:696][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 10:13:19:698][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 10:13:19:698][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 10:13:19:714][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 10:13:19:714][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 232 ms
+[20250221 10:13:19:730][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 10:13:19:736][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] 3 mappings in 'requestMappingHandlerMapping'
+[20250221 10:13:19:747][DEBUG][o.s.w.s.handler.SimpleUrlHandlerMapping] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+[20250221 10:13:19:749][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerAdapter] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+[20250221 10:13:19:750][DEBUG][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+[20250221 10:13:19:753][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 10:13:19:763][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 10:13:19:767][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 10:13:19:770][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 10:13:19:773][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.318 seconds (process running for 356.089)
+[20250221 10:13:19:773][INFO ][o.s.b.d.a.ConditionEvaluationDeltaLoggingListener] Condition evaluation unchanged
+[20250221 10:13:46:594][INFO ][o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] Restarting due to 2 class path changes (0 additions, 2 deletions, 0 modifications)
+[20250221 10:13:46:597][INFO ][o.apache.coyote.http11.Http11NioProtocol] Stopping ProtocolHandler ["http-nio-8080"]
+[20250221 10:13:46:692][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 31964 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 10:13:46:692][DEBUG][com.example.demo.DemoApplication] Running with Spring Boot v3.2.0, Spring v6.1.1
+[20250221 10:13:46:692][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 10:13:46:904][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 10:13:46:904][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 10:13:46:905][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 10:13:46:905][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 10:13:46:921][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 10:13:46:921][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 225 ms
+[20250221 10:13:46:937][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 10:13:46:944][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] 3 mappings in 'requestMappingHandlerMapping'
+[20250221 10:13:46:954][DEBUG][o.s.w.s.handler.SimpleUrlHandlerMapping] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+[20250221 10:13:46:956][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerAdapter] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+[20250221 10:13:46:957][DEBUG][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+[20250221 10:13:46:960][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 10:13:46:967][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 10:13:46:970][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 10:13:46:973][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 10:13:46:976][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.319 seconds (process running for 383.293)
+[20250221 10:13:46:977][INFO ][o.s.b.d.a.ConditionEvaluationDeltaLoggingListener] Condition evaluation unchanged
+[20250221 10:13:48:389][INFO ][o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] Restarting due to 2 class path changes (2 additions, 0 deletions, 0 modifications)
+[20250221 10:13:48:390][INFO ][o.apache.coyote.http11.Http11NioProtocol] Stopping ProtocolHandler ["http-nio-8080"]
+[20250221 10:13:48:456][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 31964 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 10:13:48:457][DEBUG][com.example.demo.DemoApplication] Running with Spring Boot v3.2.0, Spring v6.1.1
+[20250221 10:13:48:457][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 10:13:48:615][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 10:13:48:616][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 10:13:48:616][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 10:13:48:616][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 10:13:48:628][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 10:13:48:628][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 170 ms
+[20250221 10:13:48:644][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 10:13:48:649][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] 3 mappings in 'requestMappingHandlerMapping'
+[20250221 10:13:48:658][DEBUG][o.s.w.s.handler.SimpleUrlHandlerMapping] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+[20250221 10:13:48:659][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerAdapter] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+[20250221 10:13:48:662][DEBUG][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+[20250221 10:13:48:665][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 10:13:48:673][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 10:13:48:677][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 10:13:48:680][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 10:13:48:683][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.249 seconds (process running for 385.0)
+[20250221 10:13:48:684][INFO ][o.s.b.d.a.ConditionEvaluationDeltaLoggingListener] Condition evaluation unchanged
+[20250221 10:13:56:204][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 9108 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 10:13:56:205][DEBUG][com.example.demo.DemoApplication] Running with Spring Boot v3.2.0, Spring v6.1.1
+[20250221 10:13:56:206][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 10:13:56:262][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20250221 10:13:56:262][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20250221 10:13:57:127][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 10:13:57:134][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 10:13:57:135][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 10:13:57:135][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 10:13:57:174][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 10:13:57:174][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 911 ms
+[20250221 10:13:57:257][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 10:13:57:304][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] 3 mappings in 'requestMappingHandlerMapping'
+[20250221 10:13:57:344][DEBUG][o.s.w.s.handler.SimpleUrlHandlerMapping] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+[20250221 10:13:57:361][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerAdapter] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+[20250221 10:13:57:384][DEBUG][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+[20250221 10:13:57:411][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 10:13:57:459][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 10:13:57:471][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 10:13:57:486][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 10:13:57:491][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 1.778 seconds (process running for 2.233)
+[20250221 10:14:15:395][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20250221 10:14:15:396][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20250221 10:14:15:396][DEBUG][o.s.web.servlet.DispatcherServlet] Detected StandardServletMultipartResolver
+[20250221 10:14:15:396][DEBUG][o.s.web.servlet.DispatcherServlet] Detected AcceptHeaderLocaleResolver
+[20250221 10:14:15:396][DEBUG][o.s.web.servlet.DispatcherServlet] Detected FixedThemeResolver
+[20250221 10:14:15:397][DEBUG][o.s.web.servlet.DispatcherServlet] Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@6ed8184f
+[20250221 10:14:15:398][DEBUG][o.s.web.servlet.DispatcherServlet] Detected org.springframework.web.servlet.support.SessionFlashMapManager@451f8762
+[20250221 10:14:15:398][DEBUG][o.s.web.servlet.DispatcherServlet] enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+[20250221 10:14:15:398][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 2 ms
+[20250221 10:14:15:410][DEBUG][o.s.web.servlet.DispatcherServlet] OPTIONS "/confirm", parameters={}
+[20250221 10:14:15:410][DEBUG][o.s.web.servlet.DispatcherServlet] OPTIONS "/confirm", parameters={}
+[20250221 10:14:15:430][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 10:14:15:430][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 10:14:15:446][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 200 OK
+[20250221 10:14:15:446][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 200 OK
+[20250221 10:14:15:457][DEBUG][o.s.web.servlet.DispatcherServlet] POST "/confirm", parameters={}
+[20250221 10:14:15:457][DEBUG][o.s.web.servlet.DispatcherServlet] POST "/confirm", parameters={}
+[20250221 10:14:15:457][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 10:14:15:457][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 10:14:15:566][DEBUG][o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor] Read "application/json;charset=UTF-8" to [com.example.demo.global.payment.controller.WidgetController$PaymentRequest@587b3572]
+[20250221 10:14:15:566][DEBUG][o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor] Read "application/json;charset=UTF-8" to [com.example.demo.global.payment.controller.WidgetController$PaymentRequest@52263f10]
+[20250221 10:14:15:577][INFO ][c.e.demo.controller.WidgetController] Received payment request: com.example.demo.global.payment.controller.WidgetController$PaymentRequest@52263f10
+[20250221 10:14:15:577][INFO ][c.e.demo.controller.WidgetController] Received payment request: com.example.demo.global.payment.controller.WidgetController$PaymentRequest@587b3572
+[20250221 10:14:16:409][ERROR][c.e.demo.controller.WidgetController] Payment failed: {"code":"PROVIDER_ERROR","message":"죄송합니다. 잠시 후 다시 이용해 주시기 바랍니다."}
+[20250221 10:14:16:432][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+[20250221 10:14:16:435][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Writing [{"code":"PROVIDER_ERROR","message":"죄송합니다. 잠시 후 다시 이용해 주시기 바랍니다."}]
+[20250221 10:14:16:458][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 400 BAD_REQUEST
+[20250221 10:14:16:712][INFO ][c.e.demo.controller.WidgetController] Payment successful: {"country":"KR","metadata":null,"orderId":"MC43MzE4ODI4Mzc5MTY2","cashReceipts":null,"isPartialCancelable":true,"lastTransactionKey":"txrd_a01jmk13m22dam96mk06h211amj","discount":null,"taxExemptionAmount":0,"suppliedAmount":45455,"secret":"ps_AQ92ymxN34NDX1JA0jB4rajRKXvd","type":"NORMAL","cultureExpense":false,"taxFreeAmount":0,"requestedAt":"2025-02-21T10:14:04+09:00","currency":"KRW","paymentKey":"tgen_20250221101404j8Pv5","virtualAccount":null,"checkout":{"url":"https:\/\/api.tosspayments.com\/v1\/payments\/tgen_20250221101404j8Pv5\/checkout"},"orderName":"토스 티셔츠 외 2건","method":"간편결제","useEscrow":false,"vat":4545,"mId":"tgen_docs","approvedAt":"2025-02-21T10:14:16+09:00","balanceAmount":50000,"version":"2022-11-16","easyPay":{"amount":48168,"provider":"토스페이","discountAmount":1832},"totalAmount":50000,"cancels":null,"transfer":null,"mobilePhone":null,"failure":null,"receipt":{"url":"https:\/\/dashboard.tosspayments.com\/receipt\/redirection?transactionId=tgen_20250221101404j8Pv5&ref=PX"},"giftCertificate":null,"cashReceipt":null,"card":null,"status":"DONE"}
+[20250221 10:14:16:713][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+[20250221 10:14:16:714][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Writing [{"country":"KR","metadata":null,"orderId":"MC43MzE4ODI4Mzc5MTY2","cashReceipts":null,"isPartialCance (truncated)...]
+[20250221 10:14:16:727][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 200 OK
+[20250221 10:16:28:419][DEBUG][o.s.web.servlet.DispatcherServlet] OPTIONS "/confirm", parameters={}
+[20250221 10:16:28:419][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 10:16:28:419][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 200 OK
+[20250221 10:16:28:422][DEBUG][o.s.web.servlet.DispatcherServlet] OPTIONS "/confirm", parameters={}
+[20250221 10:16:28:422][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 10:16:28:423][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 200 OK
+[20250221 10:16:28:424][DEBUG][o.s.web.servlet.DispatcherServlet] POST "/confirm", parameters={}
+[20250221 10:16:28:424][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 10:16:28:425][DEBUG][o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor] Read "application/json;charset=UTF-8" to [com.example.demo.global.payment.controller.WidgetController$PaymentRequest@26ed303f]
+[20250221 10:16:28:426][INFO ][c.e.demo.controller.WidgetController] Received payment request: com.example.demo.global.payment.controller.WidgetController$PaymentRequest@26ed303f
+[20250221 10:16:28:426][DEBUG][o.s.web.servlet.DispatcherServlet] POST "/confirm", parameters={}
+[20250221 10:16:28:426][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 10:16:28:428][DEBUG][o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor] Read "application/json;charset=UTF-8" to [com.example.demo.global.payment.controller.WidgetController$PaymentRequest@3e0a2c3c]
+[20250221 10:16:28:428][INFO ][c.e.demo.controller.WidgetController] Received payment request: com.example.demo.global.payment.controller.WidgetController$PaymentRequest@3e0a2c3c
+[20250221 10:16:28:801][ERROR][c.e.demo.controller.WidgetController] Payment failed: {"code":"PROVIDER_ERROR","message":"죄송합니다. 잠시 후 다시 이용해 주시기 바랍니다."}
+[20250221 10:16:28:803][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+[20250221 10:16:28:803][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Writing [{"code":"PROVIDER_ERROR","message":"죄송합니다. 잠시 후 다시 이용해 주시기 바랍니다."}]
+[20250221 10:16:28:804][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 400 BAD_REQUEST
+[20250221 10:16:28:994][INFO ][c.e.demo.controller.WidgetController] Payment successful: {"country":"KR","metadata":null,"orderId":"MC4zODg4NTIxMjg4OTc5","cashReceipts":null,"isPartialCancelable":true,"lastTransactionKey":"txrd_a01jmk17n97vzw94w3x6pdf87p5","discount":null,"taxExemptionAmount":0,"suppliedAmount":45455,"secret":"ps_PBal2vxj81mk9pKN90A85RQgOAND","type":"NORMAL","cultureExpense":false,"taxFreeAmount":0,"requestedAt":"2025-02-21T10:16:19+09:00","currency":"KRW","paymentKey":"tgen_20250221101619iEWu6","virtualAccount":null,"checkout":{"url":"https:\/\/api.tosspayments.com\/v1\/payments\/tgen_20250221101619iEWu6\/checkout"},"orderName":"토스 티셔츠 외 2건","method":"간편결제","useEscrow":false,"vat":4545,"mId":"tgen_docs","approvedAt":"2025-02-21T10:16:28+09:00","balanceAmount":50000,"version":"2022-11-16","easyPay":{"amount":48168,"provider":"토스페이","discountAmount":1832},"totalAmount":50000,"cancels":null,"transfer":null,"mobilePhone":null,"failure":null,"receipt":{"url":"https:\/\/dashboard.tosspayments.com\/receipt\/redirection?transactionId=tgen_20250221101619iEWu6&ref=PX"},"giftCertificate":null,"cashReceipt":null,"card":null,"status":"DONE"}
+[20250221 10:16:28:995][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+[20250221 10:16:28:996][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Writing [{"country":"KR","metadata":null,"orderId":"MC4zODg4NTIxMjg4OTc5","cashReceipts":null,"isPartialCance (truncated)...]
+[20250221 10:16:28:998][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 200 OK
+[20250221 10:16:46:408][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 7828 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 10:16:46:409][DEBUG][com.example.demo.DemoApplication] Running with Spring Boot v3.2.0, Spring v6.1.1
+[20250221 10:16:46:411][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 10:16:46:459][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20250221 10:16:46:460][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20250221 10:16:47:392][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 10:16:47:400][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 10:16:47:402][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 10:16:47:402][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 10:16:47:443][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 10:16:47:444][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 982 ms
+[20250221 10:16:47:537][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 10:16:47:588][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] 3 mappings in 'requestMappingHandlerMapping'
+[20250221 10:16:47:637][DEBUG][o.s.w.s.handler.SimpleUrlHandlerMapping] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+[20250221 10:16:47:657][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerAdapter] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+[20250221 10:16:47:683][DEBUG][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+[20250221 10:16:47:709][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 10:16:47:772][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 10:16:47:786][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 10:16:47:807][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 10:16:47:814][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 1.972 seconds (process running for 2.619)
+[20250221 10:17:15:763][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20250221 10:17:15:763][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20250221 10:17:15:763][DEBUG][o.s.web.servlet.DispatcherServlet] Detected StandardServletMultipartResolver
+[20250221 10:17:15:763][DEBUG][o.s.web.servlet.DispatcherServlet] Detected AcceptHeaderLocaleResolver
+[20250221 10:17:15:763][DEBUG][o.s.web.servlet.DispatcherServlet] Detected FixedThemeResolver
+[20250221 10:17:15:764][DEBUG][o.s.web.servlet.DispatcherServlet] Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@36d08fae
+[20250221 10:17:15:764][DEBUG][o.s.web.servlet.DispatcherServlet] Detected org.springframework.web.servlet.support.SessionFlashMapManager@4888464c
+[20250221 10:17:15:764][DEBUG][o.s.web.servlet.DispatcherServlet] enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+[20250221 10:17:15:764][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 1 ms
+[20250221 10:17:15:771][DEBUG][o.s.web.servlet.DispatcherServlet] OPTIONS "/confirm", parameters={}
+[20250221 10:17:15:771][DEBUG][o.s.web.servlet.DispatcherServlet] OPTIONS "/confirm", parameters={}
+[20250221 10:17:15:783][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 10:17:15:783][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 10:17:15:793][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 200 OK
+[20250221 10:17:15:793][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 200 OK
+[20250221 10:17:15:800][DEBUG][o.s.web.servlet.DispatcherServlet] POST "/confirm", parameters={}
+[20250221 10:17:15:800][DEBUG][o.s.web.servlet.DispatcherServlet] POST "/confirm", parameters={}
+[20250221 10:17:15:800][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 10:17:15:800][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 10:17:15:862][DEBUG][o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor] Read "application/json;charset=UTF-8" to [com.example.demo.global.payment.controller.WidgetController$PaymentRequest@5987fa4]
+[20250221 10:17:15:862][DEBUG][o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor] Read "application/json;charset=UTF-8" to [com.example.demo.global.payment.controller.WidgetController$PaymentRequest@5c8a04dd]
+[20250221 10:17:15:869][INFO ][c.e.demo.controller.WidgetController] Received payment request: com.example.demo.global.payment.controller.WidgetController$PaymentRequest@5c8a04dd
+[20250221 10:17:15:869][INFO ][c.e.demo.controller.WidgetController] Received payment request: com.example.demo.global.payment.controller.WidgetController$PaymentRequest@5987fa4
+[20250221 10:17:16:555][ERROR][c.e.demo.controller.WidgetController] Payment failed: {"code":"PROVIDER_ERROR","message":"죄송합니다. 잠시 후 다시 이용해 주시기 바랍니다."}
+[20250221 10:17:16:564][INFO ][c.e.demo.controller.WidgetController] Payment successful: {"country":"KR","metadata":null,"orderId":"MC4yNjcyOTMzNDc3NTEz","cashReceipts":null,"isPartialCancelable":true,"lastTransactionKey":"txrd_a01jmk193r2vr1vdzfmqkysmgn4","discount":null,"taxExemptionAmount":0,"suppliedAmount":45455,"secret":"ps_eqRGgYO1r5KlbXNwL9vb3QnN2Eya","type":"NORMAL","cultureExpense":false,"taxFreeAmount":0,"requestedAt":"2025-02-21T10:17:00+09:00","currency":"KRW","paymentKey":"tgen_20250221101700j9z73","virtualAccount":null,"checkout":{"url":"https:\/\/api.tosspayments.com\/v1\/payments\/tgen_20250221101700j9z73\/checkout"},"orderName":"토스 티셔츠 외 2건","method":"간편결제","useEscrow":false,"vat":4545,"mId":"tgen_docs","approvedAt":"2025-02-21T10:17:16+09:00","balanceAmount":50000,"version":"2022-11-16","easyPay":{"amount":48168,"provider":"토스페이","discountAmount":1832},"totalAmount":50000,"cancels":null,"transfer":null,"mobilePhone":null,"failure":null,"receipt":{"url":"https:\/\/dashboard.tosspayments.com\/receipt\/redirection?transactionId=tgen_20250221101700j9z73&ref=PX"},"giftCertificate":null,"cashReceipt":null,"card":null,"status":"DONE"}
+[20250221 10:17:16:573][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+[20250221 10:17:16:573][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+[20250221 10:17:16:574][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Writing [{"code":"PROVIDER_ERROR","message":"죄송합니다. 잠시 후 다시 이용해 주시기 바랍니다."}]
+[20250221 10:17:16:574][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Writing [{"country":"KR","metadata":null,"orderId":"MC4yNjcyOTMzNDc3NTEz","cashReceipts":null,"isPartialCance (truncated)...]
+[20250221 10:17:16:583][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 400 BAD_REQUEST
+[20250221 10:17:16:584][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 200 OK
+[20250221 10:30:47:405][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 8264 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 10:30:47:407][DEBUG][com.example.demo.DemoApplication] Running with Spring Boot v3.2.0, Spring v6.1.1
+[20250221 10:30:47:408][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 10:30:47:455][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20250221 10:30:47:455][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20250221 10:30:48:385][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 10:30:48:393][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 10:30:48:394][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 10:30:48:395][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 10:30:48:438][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 10:30:48:438][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 983 ms
+[20250221 10:30:48:527][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 10:30:48:577][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] 3 mappings in 'requestMappingHandlerMapping'
+[20250221 10:30:48:620][DEBUG][o.s.w.s.handler.SimpleUrlHandlerMapping] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+[20250221 10:30:48:638][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerAdapter] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+[20250221 10:30:48:664][DEBUG][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+[20250221 10:30:48:688][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 10:30:48:732][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 10:30:48:741][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 10:30:48:757][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 10:30:48:763][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 1.967 seconds (process running for 2.693)
+[20250221 10:31:05:115][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20250221 10:31:05:116][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20250221 10:31:05:116][DEBUG][o.s.web.servlet.DispatcherServlet] Detected StandardServletMultipartResolver
+[20250221 10:31:05:116][DEBUG][o.s.web.servlet.DispatcherServlet] Detected AcceptHeaderLocaleResolver
+[20250221 10:31:05:116][DEBUG][o.s.web.servlet.DispatcherServlet] Detected FixedThemeResolver
+[20250221 10:31:05:117][DEBUG][o.s.web.servlet.DispatcherServlet] Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@3ca2c88b
+[20250221 10:31:05:118][DEBUG][o.s.web.servlet.DispatcherServlet] Detected org.springframework.web.servlet.support.SessionFlashMapManager@7c775455
+[20250221 10:31:05:118][DEBUG][o.s.web.servlet.DispatcherServlet] enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+[20250221 10:31:05:119][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 2 ms
+[20250221 10:31:05:133][DEBUG][o.s.web.servlet.DispatcherServlet] OPTIONS "/confirm", parameters={}
+[20250221 10:31:05:133][DEBUG][o.s.web.servlet.DispatcherServlet] OPTIONS "/confirm", parameters={}
+[20250221 10:31:05:154][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 10:31:05:154][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 10:31:05:170][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 200 OK
+[20250221 10:31:05:170][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 200 OK
+[20250221 10:31:05:181][DEBUG][o.s.web.servlet.DispatcherServlet] POST "/confirm", parameters={}
+[20250221 10:31:05:181][DEBUG][o.s.web.servlet.DispatcherServlet] POST "/confirm", parameters={}
+[20250221 10:31:05:182][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 10:31:05:182][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 10:31:05:291][DEBUG][o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor] Read "application/json;charset=UTF-8" to [com.example.demo.global.payment.controller.WidgetController$PaymentRequest@15601dd6]
+[20250221 10:31:05:291][DEBUG][o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor] Read "application/json;charset=UTF-8" to [com.example.demo.global.payment.controller.WidgetController$PaymentRequest@6965b169]
+[20250221 10:31:05:303][INFO ][c.e.demo.controller.WidgetController] Received payment request: com.example.demo.global.payment.controller.WidgetController$PaymentRequest@6965b169
+[20250221 10:31:05:302][INFO ][c.e.demo.controller.WidgetController] Received payment request: com.example.demo.global.payment.controller.WidgetController$PaymentRequest@15601dd6
+[20250221 10:31:06:305][ERROR][c.e.demo.controller.WidgetController] Payment failed: {"code":"PROVIDER_ERROR","message":"죄송합니다. 잠시 후 다시 이용해 주시기 바랍니다."}
+[20250221 10:31:06:339][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+[20250221 10:31:06:342][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Writing [{"code":"PROVIDER_ERROR","message":"죄송합니다. 잠시 후 다시 이용해 주시기 바랍니다."}]
+[20250221 10:31:06:362][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 400 BAD_REQUEST
+[20250221 10:31:06:490][INFO ][c.e.demo.controller.WidgetController] Payment successful: {"country":"KR","metadata":null,"orderId":"MC4yMjQxNTE0NDIxODQ1","cashReceipts":null,"isPartialCancelable":true,"lastTransactionKey":"txrd_a01jmk22e74p251q3x1ew7kpypm","discount":null,"taxExemptionAmount":0,"suppliedAmount":45455,"secret":"ps_LlDJaYngroyzK9O7pMRG3ezGdRpX","type":"NORMAL","cultureExpense":false,"taxFreeAmount":0,"requestedAt":"2025-02-21T10:30:53+09:00","currency":"KRW","paymentKey":"tgen_20250221103053bnOj1","virtualAccount":null,"checkout":{"url":"https:\/\/api.tosspayments.com\/v1\/payments\/tgen_20250221103053bnOj1\/checkout"},"orderName":"토스 티셔츠 외 2건","method":"간편결제","useEscrow":false,"vat":4545,"mId":"tgen_docs","approvedAt":"2025-02-21T10:31:06+09:00","balanceAmount":50000,"version":"2022-11-16","easyPay":{"amount":48168,"provider":"토스페이","discountAmount":1832},"totalAmount":50000,"cancels":null,"transfer":null,"mobilePhone":null,"failure":null,"receipt":{"url":"https:\/\/dashboard.tosspayments.com\/receipt\/redirection?transactionId=tgen_20250221103053bnOj1&ref=PX"},"giftCertificate":null,"cashReceipt":null,"card":null,"status":"DONE"}
+[20250221 10:31:06:491][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+[20250221 10:31:06:492][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Writing [{"country":"KR","metadata":null,"orderId":"MC4yMjQxNTE0NDIxODQ1","cashReceipts":null,"isPartialCance (truncated)...]
+[20250221 10:31:06:497][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 200 OK
+[20250221 10:37:47:311][DEBUG][o.s.web.servlet.DispatcherServlet] POST "/confirm", parameters={}
+[20250221 10:37:47:312][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 10:37:47:313][DEBUG][o.s.web.servlet.DispatcherServlet] POST "/confirm", parameters={}
+[20250221 10:37:47:313][DEBUG][o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor] Read "application/json;charset=UTF-8" to [com.example.demo.global.payment.controller.WidgetController$PaymentRequest@487d46a5]
+[20250221 10:37:47:314][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 10:37:47:314][INFO ][c.e.demo.controller.WidgetController] Received payment request: com.example.demo.global.payment.controller.WidgetController$PaymentRequest@487d46a5
+[20250221 10:37:47:315][DEBUG][o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor] Read "application/json;charset=UTF-8" to [com.example.demo.global.payment.controller.WidgetController$PaymentRequest@5fe8dfeb]
+[20250221 10:37:47:316][INFO ][c.e.demo.controller.WidgetController] Received payment request: com.example.demo.global.payment.controller.WidgetController$PaymentRequest@5fe8dfeb
+[20250221 10:37:47:672][ERROR][c.e.demo.controller.WidgetController] Payment failed: {"code":"PROVIDER_ERROR","message":"죄송합니다. 잠시 후 다시 이용해 주시기 바랍니다."}
+[20250221 10:37:47:673][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+[20250221 10:37:47:673][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Writing [{"code":"PROVIDER_ERROR","message":"죄송합니다. 잠시 후 다시 이용해 주시기 바랍니다."}]
+[20250221 10:37:47:674][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 400 BAD_REQUEST
+[20250221 10:37:47:927][INFO ][c.e.demo.controller.WidgetController] Payment successful: {"country":"KR","metadata":null,"orderId":"MC4zNjIxNjIzMTY5NDM3","cashReceipts":null,"isPartialCancelable":true,"lastTransactionKey":"txrd_a01jmk2ep8fg2bsp15q928sp0hq","discount":null,"taxExemptionAmount":0,"suppliedAmount":45455,"secret":"ps_eqRGgYO1r5MzjDWdKOd4rQnN2Eya","type":"NORMAL","cultureExpense":false,"taxFreeAmount":0,"requestedAt":"2025-02-21T10:37:33+09:00","currency":"KRW","paymentKey":"tgen_20250221103733c1Wv1","virtualAccount":null,"checkout":{"url":"https:\/\/api.tosspayments.com\/v1\/payments\/tgen_20250221103733c1Wv1\/checkout"},"orderName":"토스 티셔츠 외 2건","method":"간편결제","useEscrow":false,"vat":4545,"mId":"tgen_docs","approvedAt":"2025-02-21T10:37:47+09:00","balanceAmount":50000,"version":"2022-11-16","easyPay":{"amount":48168,"provider":"토스페이","discountAmount":1832},"totalAmount":50000,"cancels":null,"transfer":null,"mobilePhone":null,"failure":null,"receipt":{"url":"https:\/\/dashboard.tosspayments.com\/receipt\/redirection?transactionId=tgen_20250221103733c1Wv1&ref=PX"},"giftCertificate":null,"cashReceipt":null,"card":null,"status":"DONE"}
+[20250221 10:37:47:928][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+[20250221 10:37:47:929][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Writing [{"country":"KR","metadata":null,"orderId":"MC4zNjIxNjIzMTY5NDM3","cashReceipts":null,"isPartialCance (truncated)...]
+[20250221 10:37:47:930][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 200 OK
+[20250221 10:40:36:767][DEBUG][o.s.web.servlet.DispatcherServlet] POST "/confirm", parameters={}
+[20250221 10:40:36:768][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 10:40:36:769][DEBUG][o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor] Read "application/json;charset=UTF-8" to [com.example.demo.global.payment.controller.WidgetController$PaymentRequest@773f1cf1]
+[20250221 10:40:36:770][INFO ][c.e.demo.controller.WidgetController] Received payment request: com.example.demo.global.payment.controller.WidgetController$PaymentRequest@773f1cf1
+[20250221 10:40:37:679][INFO ][c.e.demo.controller.WidgetController] Payment successful: {"country":"KR","metadata":null,"orderId":"MC4zMTY4NTY3MDY0MDYw","cashReceipts":null,"isPartialCancelable":true,"lastTransactionKey":"txrd_a01jmk2kvzhqa4dpmvrkp6a7w9k","discount":null,"taxExemptionAmount":0,"suppliedAmount":45455,"secret":"ps_GePWvyJnrKj77WJGnvGbVgLzN97E","type":"NORMAL","cultureExpense":false,"taxFreeAmount":0,"requestedAt":"2025-02-21T10:40:25+09:00","currency":"KRW","paymentKey":"tgen_20250221104025ggxt9","virtualAccount":null,"checkout":{"url":"https:\/\/api.tosspayments.com\/v1\/payments\/tgen_20250221104025ggxt9\/checkout"},"orderName":"토스 티셔츠 외 2건","method":"간편결제","useEscrow":false,"vat":4545,"mId":"tgen_docs","approvedAt":"2025-02-21T10:40:37+09:00","balanceAmount":50000,"version":"2022-11-16","easyPay":{"amount":48168,"provider":"토스페이","discountAmount":1832},"totalAmount":50000,"cancels":null,"transfer":null,"mobilePhone":null,"failure":null,"receipt":{"url":"https:\/\/dashboard.tosspayments.com\/receipt\/redirection?transactionId=tgen_20250221104025ggxt9&ref=PX"},"giftCertificate":null,"cashReceipt":null,"card":null,"status":"DONE"}
+[20250221 10:40:37:681][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+[20250221 10:40:37:682][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Writing [{"country":"KR","metadata":null,"orderId":"MC4zMTY4NTY3MDY0MDYw","cashReceipts":null,"isPartialCance (truncated)...]
+[20250221 10:40:37:684][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 200 OK
+[20250221 11:09:07:599][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 11064 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 11:09:07:600][DEBUG][com.example.demo.DemoApplication] Running with Spring Boot v3.2.0, Spring v6.1.1
+[20250221 11:09:07:601][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 11:09:07:650][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20250221 11:09:07:650][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20250221 11:09:08:818][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 11:09:08:827][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 11:09:08:831][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 11:09:08:832][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 11:09:08:882][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 11:09:08:882][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 1231 ms
+[20250221 11:09:09:008][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 11:09:09:087][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] 3 mappings in 'requestMappingHandlerMapping'
+[20250221 11:09:09:153][DEBUG][o.s.w.s.handler.SimpleUrlHandlerMapping] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+[20250221 11:09:09:200][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerAdapter] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+[20250221 11:09:09:247][DEBUG][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+[20250221 11:09:09:312][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 11:09:09:393][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 11:09:09:410][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 11:09:09:432][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 11:09:09:439][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 2.428 seconds (process running for 3.243)
+[20250221 11:09:18:906][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20250221 11:09:18:906][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20250221 11:09:18:912][DEBUG][o.s.web.servlet.DispatcherServlet] Detected StandardServletMultipartResolver
+[20250221 11:09:18:912][DEBUG][o.s.web.servlet.DispatcherServlet] Detected AcceptHeaderLocaleResolver
+[20250221 11:09:18:912][DEBUG][o.s.web.servlet.DispatcherServlet] Detected FixedThemeResolver
+[20250221 11:09:18:913][DEBUG][o.s.web.servlet.DispatcherServlet] Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@eefbf2f
+[20250221 11:09:18:914][DEBUG][o.s.web.servlet.DispatcherServlet] Detected org.springframework.web.servlet.support.SessionFlashMapManager@6ee64eda
+[20250221 11:09:18:915][DEBUG][o.s.web.servlet.DispatcherServlet] enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+[20250221 11:09:18:915][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 4 ms
+[20250221 11:09:18:941][DEBUG][o.s.web.servlet.DispatcherServlet] OPTIONS "/confirm", parameters={}
+[20250221 11:09:19:011][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 11:09:19:045][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 200 OK
+[20250221 11:09:19:078][DEBUG][o.s.web.servlet.DispatcherServlet] POST "/confirm", parameters={}
+[20250221 11:09:19:080][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 11:09:19:322][DEBUG][o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor] Read "application/json;charset=UTF-8" to [com.example.demo.global.payment.controller.WidgetController$PaymentRequest@20fd796d]
+[20250221 11:09:19:338][INFO ][c.e.demo.controller.WidgetController] Received payment request: com.example.demo.global.payment.controller.WidgetController$PaymentRequest@20fd796d
+[20250221 11:09:20:795][INFO ][c.e.demo.controller.WidgetController] Payment successful: {"country":"KR","metadata":null,"orderId":"MC4wNzg3Mjc1Njc0MDY5","cashReceipts":null,"isPartialCancelable":true,"lastTransactionKey":"txrd_a01jmk48eq953a4rqfxyfkhx1ds","discount":null,"taxExemptionAmount":0,"suppliedAmount":45455,"secret":"ps_E92LAa5PVb5M6LMPZ9BW37YmpXyJ","type":"NORMAL","cultureExpense":false,"taxFreeAmount":0,"requestedAt":"2025-02-21T11:08:51+09:00","currency":"KRW","paymentKey":"tgen_20250221110851qRgg0","virtualAccount":null,"checkout":{"url":"https:\/\/api.tosspayments.com\/v1\/payments\/tgen_20250221110851qRgg0\/checkout"},"orderName":"토스 티셔츠 외 2건","method":"간편결제","useEscrow":false,"vat":4545,"mId":"tgen_docs","approvedAt":"2025-02-21T11:09:20+09:00","balanceAmount":50000,"version":"2022-11-16","easyPay":{"amount":50000,"provider":"카카오페이","discountAmount":0},"totalAmount":50000,"cancels":null,"transfer":null,"mobilePhone":null,"failure":null,"receipt":{"url":"https:\/\/dashboard.tosspayments.com\/receipt\/redirection?transactionId=tgen_20250221110851qRgg0&ref=PX"},"giftCertificate":null,"cashReceipt":null,"card":null,"status":"DONE"}
+[20250221 11:09:20:836][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+[20250221 11:09:20:840][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Writing [{"country":"KR","metadata":null,"orderId":"MC4wNzg3Mjc1Njc0MDY5","cashReceipts":null,"isPartialCance (truncated)...]
+[20250221 11:09:20:901][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 200 OK
+[20250221 11:13:23:558][DEBUG][o.s.web.servlet.DispatcherServlet] POST "/confirm", parameters={}
+[20250221 11:13:23:558][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 11:13:23:558][DEBUG][o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor] Read "application/json;charset=UTF-8" to [com.example.demo.global.payment.controller.WidgetController$PaymentRequest@16d250e6]
+[20250221 11:13:23:558][INFO ][c.e.demo.controller.WidgetController] Received payment request: com.example.demo.global.payment.controller.WidgetController$PaymentRequest@16d250e6
+[20250221 11:13:23:774][ERROR][c.e.demo.controller.WidgetController] Payment failed: {"code":"ALREADY_PROCESSED_PAYMENT","message":"이미 처리된 결제 입니다."}
+[20250221 11:13:23:774][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+[20250221 11:13:23:774][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Writing [{"code":"ALREADY_PROCESSED_PAYMENT","message":"이미 처리된 결제 입니다."}]
+[20250221 11:13:23:774][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 400 BAD_REQUEST
+[20250221 12:11:24:876][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 26896 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 12:11:24:878][DEBUG][com.example.demo.DemoApplication] Running with Spring Boot v3.2.0, Spring v6.1.1
+[20250221 12:11:24:880][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 12:11:25:073][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20250221 12:11:25:073][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20250221 12:11:27:605][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 12:11:27:618][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 12:11:27:620][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 12:11:27:620][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 12:11:27:758][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 12:11:27:760][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 2686 ms
+[20250221 12:11:27:966][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 12:11:28:090][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] 3 mappings in 'requestMappingHandlerMapping'
+[20250221 12:11:28:168][DEBUG][o.s.w.s.handler.SimpleUrlHandlerMapping] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+[20250221 12:11:28:207][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerAdapter] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+[20250221 12:11:28:254][DEBUG][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+[20250221 12:11:28:311][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 12:11:28:402][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 12:11:28:428][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 12:11:28:454][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 12:11:28:462][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 5.047 seconds (process running for 6.633)
+[20250221 12:12:34:451][INFO ][o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] Restarting due to 2 class path changes (0 additions, 2 deletions, 0 modifications)
+[20250221 12:12:34:463][INFO ][o.apache.coyote.http11.Http11NioProtocol] Stopping ProtocolHandler ["http-nio-8080"]
+[20250221 12:12:34:700][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 26896 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 12:12:34:701][DEBUG][com.example.demo.DemoApplication] Running with Spring Boot v3.2.0, Spring v6.1.1
+[20250221 12:12:34:701][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 12:12:35:399][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 12:12:35:400][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 12:12:35:401][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 12:12:35:401][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 12:12:35:459][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 12:12:35:460][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 753 ms
+[20250221 12:12:35:502][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 12:12:35:573][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] 2 mappings in 'requestMappingHandlerMapping'
+[20250221 12:12:35:615][DEBUG][o.s.w.s.handler.SimpleUrlHandlerMapping] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+[20250221 12:12:35:622][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerAdapter] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+[20250221 12:12:35:628][DEBUG][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+[20250221 12:12:35:643][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 12:12:35:688][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 12:12:35:701][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 12:12:35:708][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 12:12:35:713][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 1.121 seconds (process running for 73.884)
+[20250221 12:12:35:716][INFO ][o.s.b.d.a.ConditionEvaluationDeltaLoggingListener] Condition evaluation unchanged
+[20250221 12:12:59:950][INFO ][o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] Restarting due to 2 class path changes (2 additions, 0 deletions, 0 modifications)
+[20250221 12:12:59:950][INFO ][o.apache.coyote.http11.Http11NioProtocol] Stopping ProtocolHandler ["http-nio-8080"]
+[20250221 12:13:00:123][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 26896 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 12:13:00:123][DEBUG][com.example.demo.DemoApplication] Running with Spring Boot v3.2.0, Spring v6.1.1
+[20250221 12:13:00:123][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 12:13:00:412][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 12:13:00:413][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 12:13:00:413][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 12:13:00:413][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 12:13:00:432][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 12:13:00:432][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 309 ms
+[20250221 12:13:00:468][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 12:13:00:481][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] 3 mappings in 'requestMappingHandlerMapping'
+[20250221 12:13:00:500][DEBUG][o.s.w.s.handler.SimpleUrlHandlerMapping] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+[20250221 12:13:00:502][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerAdapter] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+[20250221 12:13:00:505][DEBUG][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+[20250221 12:13:00:508][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 12:13:00:520][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 12:13:00:525][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 12:13:00:528][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 12:13:00:531][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.456 seconds (process running for 98.702)
+[20250221 12:13:00:532][INFO ][o.s.b.d.a.ConditionEvaluationDeltaLoggingListener] Condition evaluation unchanged
+[20250221 12:15:25:802][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 32184 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 12:15:25:807][DEBUG][com.example.demo.DemoApplication] Running with Spring Boot v3.2.0, Spring v6.1.1
+[20250221 12:15:25:808][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 12:15:25:925][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20250221 12:15:25:925][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20250221 12:15:28:598][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 12:15:28:611][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 12:15:28:614][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 12:15:28:615][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 12:15:28:717][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 12:15:28:717][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 2792 ms
+[20250221 12:15:28:974][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 12:15:29:093][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] 3 mappings in 'requestMappingHandlerMapping'
+[20250221 12:15:29:198][DEBUG][o.s.w.s.handler.SimpleUrlHandlerMapping] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+[20250221 12:15:29:246][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerAdapter] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+[20250221 12:15:29:351][DEBUG][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+[20250221 12:15:29:420][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 12:15:29:537][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 12:15:29:570][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 12:15:29:606][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 12:15:29:614][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 5.203 seconds (process running for 7.095)
+[20250221 12:18:23:064][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20250221 12:18:23:064][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20250221 12:18:23:064][DEBUG][o.s.web.servlet.DispatcherServlet] Detected StandardServletMultipartResolver
+[20250221 12:18:23:064][DEBUG][o.s.web.servlet.DispatcherServlet] Detected AcceptHeaderLocaleResolver
+[20250221 12:18:23:064][DEBUG][o.s.web.servlet.DispatcherServlet] Detected FixedThemeResolver
+[20250221 12:18:23:065][DEBUG][o.s.web.servlet.DispatcherServlet] Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@521fd842
+[20250221 12:18:23:065][DEBUG][o.s.web.servlet.DispatcherServlet] Detected org.springframework.web.servlet.support.SessionFlashMapManager@4bff695b
+[20250221 12:18:23:066][DEBUG][o.s.web.servlet.DispatcherServlet] enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+[20250221 12:18:23:066][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 2 ms
+[20250221 12:18:23:074][DEBUG][o.s.web.servlet.DispatcherServlet] OPTIONS "/confirm", parameters={}
+[20250221 12:18:23:086][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 12:18:23:096][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 200 OK
+[20250221 12:18:23:109][DEBUG][o.s.web.servlet.DispatcherServlet] POST "/confirm", parameters={}
+[20250221 12:18:23:110][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 12:18:23:200][DEBUG][o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor] Read "application/json;charset=UTF-8" to [com.example.demo.global.payment.controller.WidgetController$PaymentRequest@1c255c07]
+[20250221 12:18:23:213][INFO ][c.e.demo.controller.WidgetController] Received payment request: com.example.demo.global.payment.controller.WidgetController$PaymentRequest@1c255c07
+[20250221 12:18:24:117][INFO ][c.e.demo.controller.WidgetController] Payment successful: {"country":"KR","metadata":null,"orderId":"MC43NDQyMjg0MTU2NjI1","cashReceipts":null,"isPartialCancelable":true,"lastTransactionKey":"txrd_a01jmk86wxy2df8qx7zca9nh2kd","discount":null,"taxExemptionAmount":0,"suppliedAmount":40909,"secret":"ps_ALnQvDd2VJmEamd7dRlw3Mj7X41m","type":"NORMAL","cultureExpense":false,"taxFreeAmount":0,"requestedAt":"2025-02-21T12:17:15+09:00","currency":"KRW","paymentKey":"tgen_20250221121715bv2c0","virtualAccount":null,"checkout":{"url":"https:\/\/api.tosspayments.com\/v1\/payments\/tgen_20250221121715bv2c0\/checkout"},"orderName":"토스 티셔츠 외 2건","method":"카드","useEscrow":false,"vat":4091,"mId":"tgen_docs","approvedAt":"2025-02-21T12:18:23+09:00","balanceAmount":45000,"version":"2022-11-16","easyPay":null,"totalAmount":45000,"cancels":null,"transfer":null,"mobilePhone":null,"failure":null,"receipt":{"url":"https:\/\/dashboard.tosspayments.com\/receipt\/redirection?transactionId=tgen_20250221121715bv2c0&ref=PX"},"giftCertificate":null,"cashReceipt":null,"card":{"ownerType":"개인","number":"53769900****538*","amount":45000,"acquireStatus":"READY","isInterestFree":false,"cardType":"체크","approveNo":"00000000","installmentPlanMonths":0,"interestPayer":null,"issuerCode":"W1","acquirerCode":"W1","useCardPoint":false},"status":"DONE"}
+[20250221 12:18:24:129][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+[20250221 12:18:24:131][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Writing [{"country":"KR","metadata":null,"orderId":"MC43NDQyMjg0MTU2NjI1","cashReceipts":null,"isPartialCance (truncated)...]
+[20250221 12:18:24:141][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 200 OK
+[20250221 14:10:21:840][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 17168 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 14:10:21:844][DEBUG][com.example.demo.DemoApplication] Running with Spring Boot v3.2.0, Spring v6.1.1
+[20250221 14:10:21:847][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 14:10:21:957][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20250221 14:10:21:957][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20250221 14:10:22:990][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 14:10:22:996][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 14:10:22:998][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 14:10:22:998][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 14:10:23:036][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 14:10:23:036][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 1077 ms
+[20250221 14:10:23:123][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 14:10:23:174][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] 3 mappings in 'requestMappingHandlerMapping'
+[20250221 14:10:23:221][DEBUG][o.s.w.s.handler.SimpleUrlHandlerMapping] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+[20250221 14:10:23:262][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerAdapter] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+[20250221 14:10:23:306][DEBUG][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+[20250221 14:10:23:335][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 14:10:23:381][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 14:10:23:391][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 14:10:23:406][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 14:10:23:412][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 2.425 seconds (process running for 3.372)
+[20250221 14:12:17:633][INFO ][o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+[20250221 14:12:17:638][INFO ][o.apache.coyote.http11.Http11NioProtocol] Stopping ProtocolHandler ["http-nio-8080"]
+[20250221 14:12:17:842][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 17168 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 14:12:17:843][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 14:12:18:231][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 14:12:18:232][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 14:12:18:232][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 14:12:18:232][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 14:12:18:253][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 14:12:18:253][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 405 ms
+[20250221 14:12:18:355][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 14:12:18:416][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 14:12:18:446][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 14:12:18:460][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 14:12:18:465][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 14:12:18:470][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.695 seconds (process running for 118.43)
+[20250221 14:12:18:472][INFO ][o.s.b.d.a.ConditionEvaluationDeltaLoggingListener] Condition evaluation unchanged
+[20250221 14:15:45:798][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 27236 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 14:15:45:800][DEBUG][com.example.demo.DemoApplication] Running with Spring Boot v3.2.0, Spring v6.1.1
+[20250221 14:15:45:801][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 14:15:45:888][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20250221 14:15:45:889][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20250221 14:15:46:846][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 14:15:46:853][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 14:15:46:855][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 14:15:46:855][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 14:15:46:893][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 14:15:46:893][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 1003 ms
+[20250221 14:15:46:980][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 14:15:47:038][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] 3 mappings in 'requestMappingHandlerMapping'
+[20250221 14:15:47:115][DEBUG][o.s.w.s.handler.SimpleUrlHandlerMapping] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+[20250221 14:15:47:140][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerAdapter] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+[20250221 14:15:47:166][DEBUG][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+[20250221 14:15:47:196][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 14:15:47:242][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 14:15:47:253][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 14:15:47:271][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 14:15:47:277][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 2.258 seconds (process running for 3.082)
+[20250221 14:16:12:317][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20250221 14:16:12:318][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20250221 14:16:12:318][DEBUG][o.s.web.servlet.DispatcherServlet] Detected StandardServletMultipartResolver
+[20250221 14:16:12:318][DEBUG][o.s.web.servlet.DispatcherServlet] Detected AcceptHeaderLocaleResolver
+[20250221 14:16:12:318][DEBUG][o.s.web.servlet.DispatcherServlet] Detected FixedThemeResolver
+[20250221 14:16:12:319][DEBUG][o.s.web.servlet.DispatcherServlet] Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@399a3e19
+[20250221 14:16:12:319][DEBUG][o.s.web.servlet.DispatcherServlet] Detected org.springframework.web.servlet.support.SessionFlashMapManager@4b55645c
+[20250221 14:16:12:320][DEBUG][o.s.web.servlet.DispatcherServlet] enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+[20250221 14:16:12:320][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 2 ms
+[20250221 14:16:12:335][DEBUG][o.s.web.servlet.DispatcherServlet] OPTIONS "/confirm", parameters={}
+[20250221 14:16:12:353][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 14:16:12:372][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 200 OK
+[20250221 14:16:12:385][DEBUG][o.s.web.servlet.DispatcherServlet] POST "/confirm", parameters={}
+[20250221 14:16:12:386][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] Mapped to com.example.demo.global.payment.controller.WidgetController#confirmPayment(PaymentRequest)
+[20250221 14:16:12:504][DEBUG][o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor] Read "application/json;charset=UTF-8" to [com.example.demo.global.payment.controller.WidgetController$PaymentRequest@311e6b10]
+[20250221 14:16:12:517][INFO ][c.e.demo.controller.WidgetController] Received payment request: com.example.demo.global.payment.controller.WidgetController$PaymentRequest@311e6b10
+[20250221 14:16:13:700][INFO ][c.e.demo.controller.WidgetController] Payment successful: {"country":"KR","metadata":null,"orderId":"MC4xMjg5NDcxMTcwNjg2","cashReceipts":null,"isPartialCancelable":true,"lastTransactionKey":"txrd_a01jmkeymtpwgmt13vgsbjqjss6","discount":null,"taxExemptionAmount":0,"suppliedAmount":40909,"secret":"ps_Ba5PzR0ArnOnlD2lK01x8vmYnNeD","type":"NORMAL","cultureExpense":false,"taxFreeAmount":0,"requestedAt":"2025-02-21T14:15:55+09:00","currency":"KRW","paymentKey":"tgen_20250221141555j3Fi2","virtualAccount":null,"checkout":{"url":"https:\/\/api.tosspayments.com\/v1\/payments\/tgen_20250221141555j3Fi2\/checkout"},"orderName":"토스 티셔츠 외 2건","method":"간편결제","useEscrow":false,"vat":4091,"mId":"tgen_docs","approvedAt":"2025-02-21T14:16:13+09:00","balanceAmount":45000,"version":"2022-11-16","easyPay":{"amount":43168,"provider":"토스페이","discountAmount":1832},"totalAmount":45000,"cancels":null,"transfer":null,"mobilePhone":null,"failure":null,"receipt":{"url":"https:\/\/dashboard.tosspayments.com\/receipt\/redirection?transactionId=tgen_20250221141555j3Fi2&ref=PX"},"giftCertificate":null,"cashReceipt":null,"card":null,"status":"DONE"}
+[20250221 14:16:13:734][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+[20250221 14:16:13:737][DEBUG][o.s.w.s.m.m.a.HttpEntityMethodProcessor] Writing [{"country":"KR","metadata":null,"orderId":"MC4xMjg5NDcxMTcwNjg2","cashReceipts":null,"isPartialCance (truncated)...]
+[20250221 14:16:13:770][DEBUG][o.s.web.servlet.DispatcherServlet] Completed 200 OK
+[20250221 14:21:55:513][INFO ][o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+[20250221 14:21:55:519][INFO ][o.apache.coyote.http11.Http11NioProtocol] Stopping ProtocolHandler ["http-nio-8080"]
+[20250221 14:21:55:625][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 17.0.9 with PID 27236 (C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back\out\production\classes started by chosh in C:\Users\chosh\OneDrive\바탕 화면\Computer Study\toss_payment\back)
+[20250221 14:21:55:626][DEBUG][com.example.demo.DemoApplication] Running with Spring Boot v3.2.0, Spring v6.1.1
+[20250221 14:21:55:626][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20250221 14:21:56:146][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 8080 (http)
+[20250221 14:21:56:147][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-8080"]
+[20250221 14:21:56:148][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20250221 14:21:56:149][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20250221 14:21:56:215][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20250221 14:21:56:215][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 584 ms
+[20250221 14:21:56:290][INFO ][o.s.b.a.w.s.WelcomePageHandlerMapping] Adding welcome page: ServletContext resource [/index.html]
+[20250221 14:21:56:308][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerMapping] 3 mappings in 'requestMappingHandlerMapping'
+[20250221 14:21:56:338][DEBUG][o.s.w.s.handler.SimpleUrlHandlerMapping] Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+[20250221 14:21:56:343][DEBUG][o.s.w.s.m.m.a.RequestMappingHandlerAdapter] ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+[20250221 14:21:56:347][DEBUG][o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver] ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+[20250221 14:21:56:355][WARN ][o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration] Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
+[20250221 14:21:56:455][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20250221 14:21:56:467][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-8080"]
+[20250221 14:21:56:477][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 8080 (http) with context path ''
+[20250221 14:21:56:487][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.9 seconds (process running for 372.292)
+[20250221 14:21:56:493][INFO ][o.s.b.d.a.ConditionEvaluationDeltaLoggingListener] Condition evaluation unchanged
