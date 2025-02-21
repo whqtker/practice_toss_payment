@@ -42,3 +42,4 @@ db.mv.db
 db.trace.db
 /src/main/java/com/example/demo/domain/missing/
 /logs/
+/target/
